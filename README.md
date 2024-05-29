@@ -4,6 +4,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## Step 0: Install the basic of react native
+
+Go thru official documentation and start your own project
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -17,6 +21,14 @@ npm start
 # OR using Yarn
 yarn start
 ```
+
+## Step 1.5: Download necessary things
+
+First, you will need to download the necessary dependencies
+
+```bash
+# using npm
+npm i
 
 ## Step 2: Start your Application
 
